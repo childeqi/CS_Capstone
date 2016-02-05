@@ -1,0 +1,4 @@
+#TEST OUTLINE
+
+We plan to implement an automated grading system to quickly grade java programs applicable to CS401 at Pitt.  We will need to test the reliability of the graded output, the scalability of the program to accommodate projects from other CS classes, and the performance of the program with regard to speed and accuracy of grading.
+We will need several tools throughout the implementation of this program.  The first of such tools being access to a compiler, so that our program can compile and run the submitted programs in order to grade them.  Another necessary tool will be an email interface to support quick and easy submission of the students’ programs to the grader.  Along this vein, we will need to be able to test the ease of use of the submission system as well as the accuracy of grades.
