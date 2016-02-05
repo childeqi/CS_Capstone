@@ -2,7 +2,7 @@
 
 ##Automated Grading System
 
-###Group Members:
+######Group Members:
 #####Nicholas Carone
 #####Mengqi Wu
 #####Brandon Carroll
