@@ -1,8 +1,8 @@
 #USER STORIES
 
-  ######As a Student
-  ######I want Immediate grading
-  ######So that I am up to date with my grades
+######As a Student
+######I want Immediate grading
+######So that I am up to date with my grades
 
   As a Professor
   I want Immediate grading
