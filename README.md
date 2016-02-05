@@ -1,2 +1,2 @@
 # CS_Capstone
-## Automated Grading System
+### Automated Grading System
