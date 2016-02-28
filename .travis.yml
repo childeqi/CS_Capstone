@@ -5,9 +5,6 @@ jdk:
   - openjdk6
 
 notifications:
-  email:
-    - mew115@pitt.edu
-    
   webhook:
     url:
     - https://github.com/childeqi/CS_Capstone/lalala
