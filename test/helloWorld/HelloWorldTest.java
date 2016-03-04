@@ -10,8 +10,9 @@ public class HelloWorldTest {
 	@Test
 	public void testHellowWorld(){
 		HelloWorld hello = new HelloWorld();
-		assertEquals("A test for Hello World String", "Helloll World", hello.sayHello());	
 		assertEquals("A test for Hello World String", "Hello World", hello.sayHello());
+		assertEquals("A test for Hello World String", "Helloll World", hello.sayHello());	
+		
 	}
 	
 }
