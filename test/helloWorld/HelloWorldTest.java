@@ -14,5 +14,10 @@ public class HelloWorldTest {
 		assertEquals("A test for Hello World String", "Helloll World", hello.sayHello());	
 		
 	}
+	@Test
+	public void test2HellowWorld(){
+		HelloWorld2 hello = new HelloWorld();
+		assertEquals("A test for Hello World String", "Hello World", hello.sayHello());
+	}
 	
 }
