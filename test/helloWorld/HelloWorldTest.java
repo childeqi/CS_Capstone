@@ -11,7 +11,7 @@ public class HelloWorldTest {
 	public void testHelloWorld(){
 		HelloWorld hello = new HelloWorld();
 		assertEquals("Test 1", "Hello World", hello.sayHello());
-		assertEquals("Test 1.2", "Hello   World", hello.sayHello());	
+		assertEquals("Test 1.2", "Hello World", hello.sayHello());	
 		
 	}
 	@Test
@@ -22,7 +22,7 @@ public class HelloWorldTest {
         @Test
 	public void test3HellowWorld(){
 		HelloWorld hello = new HelloWorld();
-		assertEquals("Test 3", "Hello World1", hello.sayHello());
+		assertEquals("Test 3", "Hello World", hello.sayHello());
 	}
 	
 	
