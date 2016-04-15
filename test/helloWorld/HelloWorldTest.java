@@ -1,5 +1,5 @@
 package helloWorld;
-package helloWorld/GameOfLife;
+package GameOfLife;
 
 import static org.junit.Assert.*;
 
@@ -27,7 +27,7 @@ public class HelloWorldTest {
 	}
 	@Test
 	public void testLoadButton(){
-		private MainPanel _m;
+		MainPanel _m;
 		LoadButton newButton = new LoadButton(_m);
 		assertNotNull(newButton);
 	}
