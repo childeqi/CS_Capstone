@@ -1,4 +1,5 @@
 package helloWorld;
+package helloWorld/GameOfLife;
 
 import static org.junit.Assert.*;
 
@@ -19,11 +20,16 @@ public class HelloWorldTest {
 		HelloWorld hello = new HelloWorld();
 		assertEquals("Test 2", "Hello World", hello.sayHello());
 	}
-        @Test
+    @Test
 	public void test3HellowWorld(){
 		HelloWorld hello = new HelloWorld();
 		assertEquals("Test 3", "Hello World   ", hello.sayHello());
 	}
-	
+	@Test
+	public void testLoadButton(){
+		private MainPanel _m;
+		LoadButton newButton = new LoadButton(_m);
+		assertNotNull(newButton);
+	}
 	
 }
