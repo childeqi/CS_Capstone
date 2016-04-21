@@ -1,11 +1,11 @@
 package helloWorld;
-//package GameOfLife;
+
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import HelloWorld;
+//import HelloWorld;
 
 public class HelloWorldTest {
 	@Test
