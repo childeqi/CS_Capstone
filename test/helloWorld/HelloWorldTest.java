@@ -5,7 +5,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import helloWorld.HelloWorld;
+import HelloWorld;
 
 public class HelloWorldTest {
 	@Test
