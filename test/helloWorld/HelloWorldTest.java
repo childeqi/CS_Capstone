@@ -13,7 +13,6 @@ public class HelloWorldTest {
 		HelloWorld hello = new HelloWorld();
 		assertEquals("Test 1", "Hello World", hello.sayHello());
 			
-		
 	}
 	/*
 	@Test
