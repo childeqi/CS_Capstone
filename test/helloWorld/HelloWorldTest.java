@@ -13,7 +13,7 @@ public class HelloWorldTest {
 		assertEquals("Test 1", "Hello World", hello.sayHello());
 			
 	}
-	/*
+//	/*
 	@Test
 	public void test4HelloWorld(){
 		HelloWorld hello = new HelloWorld();
@@ -30,7 +30,7 @@ public class HelloWorldTest {
 		HelloWorld hello = new HelloWorld();
 		assertEquals("Test 3", "Hello World   ", hello.sayHello());
 	}
-	*/
+//	*/
 /*	
 	@Test
 	public void testLoadButton(){
