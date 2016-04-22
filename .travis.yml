@@ -6,5 +6,4 @@ notifications:
   webhook:
     url:
     - https://github.com/childeqi/CS_Capstone/lalala
-  email:
-  - youremail@pitt.edu
+
